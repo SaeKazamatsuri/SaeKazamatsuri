@@ -29,8 +29,6 @@
 
 ## 📊 　コミット状況 / Stats
 
-    ※github を本格的に使っていないのがバレている
-
     [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koeda-ShortLand&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Koeda-ShortLand/github-readme-stats)
 
 ---
