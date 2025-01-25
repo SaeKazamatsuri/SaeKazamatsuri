@@ -4,8 +4,8 @@
 
 ## 🌍 　簡単なプロフィール / Simple Profile
 
--   **名前 / Name**: Koeda-ShortLand / 風祭小枝
--   **趣味 / Interests**: web 開発, 同人誌収集, 旅行 / web development, collecting fanzines, travel
+-   **名前 / Name**: Koeda-ShortLand
+-   **趣味 / Hobby**: web 開発, 同人誌収集, 旅行 / web development, collecting fanzines, travel
 -   **ホームページ / Homepage**: [ショートランドのこかげ](https://sae-chan.net/)
 
 ---
@@ -29,7 +29,8 @@
 
 ## 📊 　コミット状況 / Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koeda-ShortLand&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Koeda-ShortLand/github-readme-stats)
+-   ※github を本格的に使っていないのがバレている
+    [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koeda-ShortLand&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Koeda-ShortLand/github-readme-stats)
 
 ---
 
