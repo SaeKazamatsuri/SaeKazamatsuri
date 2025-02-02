@@ -4,8 +4,8 @@
 
 ## 🌍 　簡単なプロフィール / Simple Profile
 
--   **名前 / Name**: SaeKazamatsuri
--   **趣味 / Hobby**: web開発, 同人誌収集, 旅行 / web development, collecting fanzines, travel
+-   **名前 / Name**: 風祭小枝 / SaeKazamatsuri
+-   **趣味 / Hobby**: web 開発, 同人誌収集, 旅行 / web development, collecting fanzines, travel
 -   **ホームページ / Homepage**: [ショートランドのこかげ](https://sae-chan.net/)
 
 ---
