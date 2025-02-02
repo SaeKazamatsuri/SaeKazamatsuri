@@ -4,7 +4,7 @@
 
 ## 🌍 　簡単なプロフィール / Simple Profile
 
--   **名前 / Name**: Koeda-ShortLand
+-   **名前 / Name**: SaeKazamatsuri
 -   **趣味 / Hobby**: web開発, 同人誌収集, 旅行 / web development, collecting fanzines, travel
 -   **ホームページ / Homepage**: [ショートランドのこかげ](https://sae-chan.net/)
 
@@ -12,7 +12,7 @@
 
 ## 📚 　使用している言語 / Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koeda-ShortLand&layout=compact&theme=tokyonight&count_private=true)](https://github.com/Koeda-ShortLand/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeKazamatsuri&layout=compact&theme=tokyonight&count_private=true)](https://github.com/SaeKazamatsuri/github-readme-stats)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 📊 　コミット状況 / Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koeda-ShortLand&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Koeda-ShortLand/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaeKazamatsuri&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/SaeKazamatsuri/github-readme-stats)
 
 ---
 
