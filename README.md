@@ -7,6 +7,7 @@
 -   **名前 / Name**: 風祭小枝 / SaeKazamatsuri
 -   **趣味 / Hobby**: web 開発, 同人誌収集, 旅行 / web development, collecting fanzines, travel
 -   **ホームページ / Homepage**: [ショートランドのこかげ](https://sae-chan.net/)
+-   **ポートフォリオ**: [yurikiss.moe](https://yurikiss.moe/)
 
 ---
 
