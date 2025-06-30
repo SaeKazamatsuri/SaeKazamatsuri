@@ -19,7 +19,7 @@
 
 ## 🛠️ 　環境 / Development Environment
 
--   **OS**: Windows 10 / Ubuntu
+-   **OS**: Windows / Ubuntu
 -   **Editor**: Visual Studio Code
 -   **Version Control**: Git, GitHub, Google Drive
 -   **Programming Languages**: Python, JavaScript, TypeScript
